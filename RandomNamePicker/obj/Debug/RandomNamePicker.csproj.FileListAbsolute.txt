@@ -1,0 +1,30 @@
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe.config
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.pdb
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csprojResolveAssemblyReference.cache
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.g.cs
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\App.g.cs
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.cache
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.lref
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.baml
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.g.resources
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.Properties.Resources.resources
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.GenerateResource.cache
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.exe
+C:\Users\Jonathan Monty\source\repos\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.pdb
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe.config
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.exe
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\bin\Debug\RandomNamePicker.pdb
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.g.cs
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\App.g.cs
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.cache
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker_MarkupCompile.lref
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\MainWindow.baml
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.g.resources
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.Properties.Resources.resources
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.GenerateResource.cache
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csproj.CoreCompileInputs.cache
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.exe
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.pdb
+E:\Users\Jonathan Monty\Desktop\Desktop workspace\RandomNamePicker\RandomNamePicker\obj\Debug\RandomNamePicker.csprojResolveAssemblyReference.cache
